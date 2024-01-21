@@ -1,0 +1,19 @@
+{
+  "name": "@willbarfield/repo-demo",
+  "version": "0.0.1",
+  "description": "demo gh repo project",
+  "main": "index.js",
+  "scripts": {
+    "test": "0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "@willbarfield/repo-demo"
+  },
+  "keywords": [
+    "node",
+    "repo"
+  ],
+  "author": "William Barfield",
+  "license": "MIT"
+}
