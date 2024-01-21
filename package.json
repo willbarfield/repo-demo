@@ -15,5 +15,8 @@
     "repo"
   ],
   "author": "William Barfield",
-  "license": "MIT"
+  "license": "MIT",
+  "publishConfig": {
+    "@willbarfield:registry": "https://npm.pkg.github.com"
+  }
 }
